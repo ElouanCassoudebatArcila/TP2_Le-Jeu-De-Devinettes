@@ -33,7 +33,6 @@ def play_game():
             print("Vous avez réussi en ", nb_essai, "essai(s)")
 
 
-
 while True:
     play = input("\n Voulez-vous jouer (o/n)?\n -->")
     if play == ("n"):
